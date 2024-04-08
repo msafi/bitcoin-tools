@@ -1,0 +1,19 @@
+Header {
+  background: $secondary-background-lighten-2;
+}
+BitcoinToolsApp {
+  background: $secondary;
+}
+Screen {
+  background: $secondary;
+  align: center middle;
+  text-align: center;
+}
+Label {
+  text-align: center;
+  background: $error;
+}
+#one {
+  text-align: center;
+  background: $error;
+}
