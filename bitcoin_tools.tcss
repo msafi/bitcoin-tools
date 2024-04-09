@@ -1,13 +1,8 @@
 Header {
   background: $secondary-background-lighten-2;
 }
-BitcoinToolsApp {
-  background: $secondary;
-}
-Screen {
-  background: $secondary;
+Screen { 
   align: center middle;
-  text-align: center;
 }
 Label {
   text-align: center;
@@ -15,5 +10,5 @@ Label {
 }
 #one {
   text-align: center;
-  background: $error;
+  align: center middle;
 }
